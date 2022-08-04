@@ -1,0 +1,17 @@
+= A Brief Memo of GPG
+Victor Wang, <vicowang6567@qq.com>
+
+According to https://gnupg.org/ftp/people/neal/an-advanced-introduction-to-gnupg/an-advanced-introduction-to-gnupg.pdf[an advanced introduction to gnupg^], https://wiki.archlinux.org/title/GnuPG[Arch Wiki GPG^].
+
+== OpenPGP
+.Specific
+* Key derivication functions aka. KDFs
+* Packet-Based message format
+* functionality to help manage the keys
+
+=== Hybrid cipher
+use public key to share a key for symmetric cipher.
+
+== Usage
+
+=== Key Management
