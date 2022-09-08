@@ -33,4 +33,3 @@ generate box with all size of
 4. rectangles whose width larger than half of box width, must be put vertically
 
 ##### Anytime Algorithm
-
